@@ -3,3 +3,8 @@
 ---
 
 Welcome to the garden!
+
+```dataview
+LIST FROM "src/site/notes"
+WHERE dg-publish = true
+SORT file.mtime DESC
