@@ -7,6 +7,7 @@ Welcome to the garden!
 
 | Folder | Note                                                                                             | Last Updated |
 | ------ | ------------------------------------------------------------------------------------------------ | ------------ |
+|        | [[Upekkhā Talk and Meditation for Bodhi Tree\|Upekkhā Talk and Meditation for Bodhi Tree]]    | 2026-01-13   |
 | Poetry | [[Poetry/The Peace of Wild Things - Wendell Berry\|The Peace of Wild Things - Wendell Berry]] | 2026-01-13   |
 | Garden | [[Garden/MMTCP December Points\|MMTCP December Points]]                                       | 2026-01-12   |
 | Garden | [[Garden/10 Suttas to Read\|10 Suttas to Read]]                                               | 2026-01-12   |
