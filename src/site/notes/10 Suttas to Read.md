@@ -3,15 +3,6 @@
 ---
 
 
-title: 10 Suttas to Read
-dg-publish: true
-type: talk
-category: outline
-date: 2026-01-12
-tags: [clipboard, draft]
-status: draft
-source: clipboard
----
 
 
 **🌿 The 10 Suttas (Collected List)**
