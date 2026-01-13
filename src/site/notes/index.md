@@ -4,7 +4,7 @@
 
 Welcome to the garden!
 
-```dataview
-LIST FROM "src/site/notes"
-WHERE dg-publish = true
-SORT file.mtime DESC
+- [[Garden/MMTCP December Points\|MMTCP December Points]]
+- [[Garden/10 Suttas to Read\|10 Suttas to Read]]
+
+{ .block-language-dataview}
