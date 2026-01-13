@@ -3,7 +3,6 @@
 ---
 
 
----
 title: 10 Suttas to Read
 dg-publish: true
 type: talk
