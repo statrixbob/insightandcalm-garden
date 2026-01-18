@@ -2,7 +2,9 @@
 {"dg-publish":true,"permalink":"/resources/twelve-steps-in-a-theravada-frame/"}
 ---
 
+# Selected Content from Microsoft Copilot: Your AI companion
 
+**Source:** https://copilot.microsoft.com/chats/AJDov7WNpFp68yYcCmKq2
 
 ## **Twelve Steps in a Theravāda Frame**
 
