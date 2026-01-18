@@ -5,17 +5,17 @@
 Welcome to the garden!
 
 
-| Folder    | Note                                                                                                  | Last Updated |
-| --------- | ----------------------------------------------------------------------------------------------------- | ------------ |
-|           | [[The Joy of Bad Questions - A Modern Koan\|The Joy of Bad Questions - A Modern Koan]]             | 2026-01-17   |
-| Resources | [[Resources/Buddhist Steps\|Buddhist Steps]]                                                       | 2026-01-17   |
-| Talks     | [[Talks/Mindfulness of the Breath Dhamma Talk Draft\|Mindfulness of the Breath Dhamma Talk Draft]] | 2026-01-17   |
-| Talks     | [[Talks/Upekkha Dhamma Talk\|Upekkha Dhamma Talk]]                                                 | 2026-01-14   |
-| Scripts   | [[Scripts/Ordinary 10 Minute Meditation\|Ordinary 10 Minute Meditation]]                           | 2026-01-13   |
-| Scripts   | [[Scripts/Upekkhā Talk and Meditation for Bodhi Tree\|Upekkhā Talk and Meditation for Bodhi Tree]] | 2026-01-13   |
-| Poetry    | [[Poetry/The Peace of Wild Things - Wendell Berry\|The Peace of Wild Things - Wendell Berry]]      | 2026-01-13   |
-| Garden    | [[Garden/MMTCP December Points\|MMTCP December Points]]                                            | 2026-01-12   |
-| Garden    | [[Garden/10 Suttas to Read\|10 Suttas to Read]]                                                    | 2026-01-12   |
+| Folder  | Note                                                                                                  | Last Updated |
+| ------- | ----------------------------------------------------------------------------------------------------- | ------------ |
+| Notes   | [[Notes/The Joy of Bad Questions - A Modern Koan\|The Joy of Bad Questions - A Modern Koan]]       | 2026-01-17   |
+| Notes   | [[Notes/Buddhist Steps\|Buddhist Steps]]                                                           | 2026-01-17   |
+| Talks   | [[Talks/Mindfulness of the Breath Dhamma Talk Draft\|Mindfulness of the Breath Dhamma Talk Draft]] | 2026-01-17   |
+| Talks   | [[Talks/Upekkha Dhamma Talk\|Upekkha Dhamma Talk]]                                                 | 2026-01-14   |
+| Scripts | [[Scripts/Ordinary 10 Minute Meditation\|Ordinary 10 Minute Meditation]]                           | 2026-01-13   |
+| Scripts | [[Scripts/Upekkhā Talk and Meditation for Bodhi Tree\|Upekkhā Talk and Meditation for Bodhi Tree]] | 2026-01-13   |
+| Poetry  | [[Poetry/The Peace of Wild Things - Wendell Berry\|The Peace of Wild Things - Wendell Berry]]      | 2026-01-13   |
+| Garden  | [[Garden/MMTCP December Points\|MMTCP December Points]]                                            | 2026-01-12   |
+| Garden  | [[Garden/10 Suttas to Read\|10 Suttas to Read]]                                                    | 2026-01-12   |
 
 { .block-language-dataview}
 
