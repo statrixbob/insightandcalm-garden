@@ -7,7 +7,7 @@ Welcome to the garden!
 
 | Folder    | Note                                                                                                  | Last Updated |
 | --------- | ----------------------------------------------------------------------------------------------------- | ------------ |
-| Resources | [[Resources/**Twelve Steps in a Theravāda Frame**\|**Twelve Steps in a Theravāda Frame**]]         | 2026-01-17   |
+| Resources | [[Resources/**Twelve Steps in a Theravada Frame**\|**Twelve Steps in a Theravada Frame**]]         | 2026-01-17   |
 | Talks     | [[Talks/Mindfulness of the Breath Dhamma Talk Draft\|Mindfulness of the Breath Dhamma Talk Draft]] | 2026-01-17   |
 | Talks     | [[Talks/Upekkha Dhamma Talk\|Upekkha Dhamma Talk]]                                                 | 2026-01-14   |
 | Scripts   | [[Scripts/Ordinary 10 Minute Meditation\|Ordinary 10 Minute Meditation]]                           | 2026-01-13   |
