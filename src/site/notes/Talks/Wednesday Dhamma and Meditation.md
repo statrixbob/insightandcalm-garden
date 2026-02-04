@@ -18,7 +18,57 @@ And I want to begin with a poem that is unapologetically about bodies — real b
 
 ## **2\. The Poem (3 minutes)**
 
-**\[PASTE FULL TEXT OF “SAINT FRANCIS AND THE SOW” HERE\]**
+# 
+
+Saint Francis and the Sow
+
+BY [GALWAY KINNELL](https://www.poetryfoundation.org/poets/galway-kinnell)
+
+The bud  
+
+stands for all things,  
+
+even for those things that don’t flower,  
+
+for everything flowers, from within, of self-blessing;     
+
+though sometimes it is necessary  
+
+to reteach a thing its loveliness,  
+
+to put a hand on its brow  
+
+of the flower  
+
+and retell it in words and in touch  
+
+it is lovely  
+
+until it flowers again from within, of self-blessing;     
+
+as Saint Francis  
+
+put his hand on the creased forehead  
+
+of the sow, and told her in words and in touch     
+
+blessings of earth on the sow, and the sow     
+
+began remembering all down her thick length,     
+
+from the earthen snout all the way  
+
+through the fodder and slops to the spiritual curl of the tail,     
+
+from the hard spininess spiked out from the spine     
+
+down through the great broken heart  
+
+to the sheer blue milken dreaminess spurting and shuddering     
+
+from the fourteen teats into the fourteen mouths sucking and blowing beneath them:  
+
+the long, perfect loveliness of sow.
 
 Let that settle for a moment — the snout, the spine, the teats, the mouths, the thick length of a living creature. Kinnell does not give us a symbolic sow. He gives us a *body*.
 
@@ -299,6 +349,27 @@ Below is a fully integrated structure you can use. I’ll keep it in your voice 
 # **20‑Minute Meditation (Walcott as the anchor)**
 
 Here’s a full meditation script that uses *Love After Love* as the quiet heart of the practice. You can read the poem in full because the user (you) provided it.
+
+# [Love After Love](https://allpoetry.com/Love-After-Love)
+
+The time will come   
+when, with elation   
+you will greet yourself arriving   
+at your own door, in your own mirror   
+and each will smile at the other's welcome,   
+  
+and say, sit here. Eat.   
+You will love again the stranger who was your self.  
+Give wine. Give bread. Give back your heart   
+to itself, to the stranger who has loved you   
+  
+all your life, whom you ignored   
+for another, who knows you by heart.   
+Take down the love letters from the bookshelf,   
+  
+the photographs, the desperate notes,   
+peel your own image from the mirror.   
+Sit. Feast on your life.
 
 ## **0:00–1:00 — Settling**
 
