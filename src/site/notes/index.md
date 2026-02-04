@@ -7,7 +7,8 @@ Welcome to the garden!
 
 | Folder  | Note                                                                                                  | Last Updated |
 | ------- | ----------------------------------------------------------------------------------------------------- | ------------ |
-|         | [[Wednesday Dhamma and Meditation\|Wednesday Dhamma and Meditation]]                               | 2026-02-01   |
+| Talks   | [[Talks/The Four Domains of Mindfulness of the Body\|The Four Domains of Mindfulness of the Body]] | 2026-02-04   |
+| Talks   | [[Talks/Wednesday Dhamma and Meditation\|Wednesday Dhamma and Meditation]]                         | 2026-02-01   |
 | Notes   | [[Notes/The Joy of Bad Questions - A Modern Koan\|The Joy of Bad Questions - A Modern Koan]]       | 2026-01-17   |
 | Notes   | [[Notes/Buddhist Steps\|Buddhist Steps]]                                                           | 2026-01-17   |
 | Talks   | [[Talks/Mindfulness of the Breath Dhamma Talk Draft\|Mindfulness of the Breath Dhamma Talk Draft]] | 2026-01-17   |
